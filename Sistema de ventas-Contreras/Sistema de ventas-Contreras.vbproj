@@ -1,0 +1,311 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{B3D8A503-7E22-4B63-AC5B-AC49BB11D22C}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Sistema_de_ventas_Contreras.My.MyApplication</StartupObject>
+    <RootNamespace>Sistema_de_ventas_Contreras</RootNamespace>
+    <AssemblyName>Sistema de ventas-Contreras</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Sistema de ventas-Contreras.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Sistema de ventas-Contreras.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="frmEditarProductosvb.Designer.vb">
+      <DependentUpon>frmEditarProductosvb.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmEditarProductosvb.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEliminarProductos.Designer.vb">
+      <DependentUpon>frmEliminarProductos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmEliminarProductos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCancelarPedido.Designer.vb">
+      <DependentUpon>frmCancelarPedido.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmCancelarPedido.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmConsultaGeneralPedidos.Designer.vb">
+      <DependentUpon>frmConsultaGeneralPedidos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmConsultaGeneralPedidos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmConsultaPedidosEstatus.Designer.vb">
+      <DependentUpon>frmConsultaPedidosEstatus.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmConsultaPedidosEstatus.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmConsultaPedidosMensual.Designer.vb">
+      <DependentUpon>frmConsultaPedidosMensual.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmConsultaPedidosMensual.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmInicioSesion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmInicioSesion.Designer.vb">
+      <DependentUpon>frmInicioSesion.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmVenta.Designer.vb">
+      <DependentUpon>frmVenta.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmVenta.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAsignarCuenta.Designer.vb">
+      <DependentUpon>frmAsignarCuenta.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmAsignarCuenta.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCambiarContraseña.Designer.vb">
+      <DependentUpon>frmCambiarContraseña.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmCambiarContraseña.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmConsultaEmpleados.Designer.vb">
+      <DependentUpon>frmConsultaEmpleados.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmConsultaEmpleados.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEditorEmpleados.Designer.vb">
+      <DependentUpon>frmEditorEmpleados.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmEditorEmpleados.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEliminarCuenta.Designer.vb">
+      <DependentUpon>frmEliminarCuenta.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmEliminarCuenta.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEliminarEmpleados.Designer.vb">
+      <DependentUpon>frmEliminarEmpleados.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmEliminarEmpleados.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmInventario.Designer.vb">
+      <DependentUpon>frmInventario.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmInventario.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMenuvb.Designer.vb">
+      <DependentUpon>frmMenuvb.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmMenuvb.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPedidos.Designer.vb">
+      <DependentUpon>frmPedidos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmPedidos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRecibirProducto.Designer.vb">
+      <DependentUpon>frmRecibirProducto.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmRecibirProducto.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRegistrarEmpleados.Designer.vb">
+      <DependentUpon>frmRegistrarEmpleados.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmRegistrarEmpleados.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmReportesVentas.Designer.vb">
+      <DependentUpon>frmReportesVentas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmReportesVentas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="General_Contreras.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="frmRegistro de productos .Designer.vb">
+      <DependentUpon>frmRegistro de productos .vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmRegistro de productos .vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="frmEditarProductosvb.resx">
+      <DependentUpon>frmEditarProductosvb.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEliminarProductos.resx">
+      <DependentUpon>frmEliminarProductos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCancelarPedido.resx">
+      <DependentUpon>frmCancelarPedido.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmConsultaGeneralPedidos.resx">
+      <DependentUpon>frmConsultaGeneralPedidos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmConsultaPedidosEstatus.resx">
+      <DependentUpon>frmConsultaPedidosEstatus.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmConsultaPedidosMensual.resx">
+      <DependentUpon>frmConsultaPedidosMensual.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmInicioSesion.resx">
+      <DependentUpon>frmInicioSesion.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmVenta.resx">
+      <DependentUpon>frmVenta.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAsignarCuenta.resx">
+      <DependentUpon>frmAsignarCuenta.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCambiarContraseña.resx">
+      <DependentUpon>frmCambiarContraseña.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmConsultaEmpleados.resx">
+      <DependentUpon>frmConsultaEmpleados.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEditorEmpleados.resx">
+      <DependentUpon>frmEditorEmpleados.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEliminarCuenta.resx">
+      <DependentUpon>frmEliminarCuenta.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEliminarEmpleados.resx">
+      <DependentUpon>frmEliminarEmpleados.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmInventario.resx">
+      <DependentUpon>frmInventario.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMenuvb.resx">
+      <DependentUpon>frmMenuvb.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPedidos.resx">
+      <DependentUpon>frmPedidos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRecibirProducto.resx">
+      <DependentUpon>frmRecibirProducto.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRegistrarEmpleados.resx">
+      <DependentUpon>frmRegistrarEmpleados.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmReportesVentas.resx">
+      <DependentUpon>frmReportesVentas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRegistro de productos .resx">
+      <DependentUpon>frmRegistro de productos .vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,90 @@
+E:\Sistema de ventas-Contreras\Sistema de ventas-Contreras\bin\Debug\Sistema de ventas-Contreras.exe.config
+E:\Sistema de ventas-Contreras\Sistema de ventas-Contreras\bin\Debug\Sistema de ventas-Contreras.exe
+E:\Sistema de ventas-Contreras\Sistema de ventas-Contreras\bin\Debug\Sistema de ventas-Contreras.pdb
+E:\Sistema de ventas-Contreras\Sistema de ventas-Contreras\bin\Debug\Sistema de ventas-Contreras.xml
+E:\Sistema de ventas-Contreras\Sistema de ventas-Contreras\obj\Debug\Sistema_de_ventas_Contreras.frmEditarProductosvb.resources
+E:\Sistema de ventas-Contreras\Sistema de ventas-Contreras\obj\Debug\Sistema_de_ventas_Contreras.frmEliminarProductos.resources
+E:\Sistema de ventas-Contreras\Sistema de ventas-Contreras\obj\Debug\Sistema_de_ventas_Contreras.frmCancelarPedido.resources
+E:\Sistema de ventas-Contreras\Sistema de ventas-Contreras\obj\Debug\Sistema_de_ventas_Contreras.frmConsultaGeneralPedidos.resources
+E:\Sistema de ventas-Contreras\Sistema de ventas-Contreras\obj\Debug\Sistema_de_ventas_Contreras.frmConsultaPedidosEstatus.resources
+E:\Sistema de ventas-Contreras\Sistema de ventas-Contreras\obj\Debug\Sistema_de_ventas_Contreras.frmConsultaPedidosMensual.resources
+E:\Sistema de ventas-Contreras\Sistema de ventas-Contreras\obj\Debug\Sistema_de_ventas_Contreras.frmIniciosesion.resources
+E:\Sistema de ventas-Contreras\Sistema de ventas-Contreras\obj\Debug\Sistema_de_ventas_Contreras.frmVenta.resources
+E:\Sistema de ventas-Contreras\Sistema de ventas-Contreras\obj\Debug\Sistema_de_ventas_Contreras.frmAsignarCuenta.resources
+E:\Sistema de ventas-Contreras\Sistema de ventas-Contreras\obj\Debug\Sistema_de_ventas_Contreras.frmCambiarContraseña.resources
+E:\Sistema de ventas-Contreras\Sistema de ventas-Contreras\obj\Debug\Sistema_de_ventas_Contreras.frmConsultaEmpleados.resources
+E:\Sistema de ventas-Contreras\Sistema de ventas-Contreras\obj\Debug\Sistema_de_ventas_Contreras.frmEditorEmpleados.resources
+E:\Sistema de ventas-Contreras\Sistema de ventas-Contreras\obj\Debug\Sistema_de_ventas_Contreras.frmEliminarCuenta.resources
+E:\Sistema de ventas-Contreras\Sistema de ventas-Contreras\obj\Debug\Sistema_de_ventas_Contreras.frmEliminarEmpleados.resources
+E:\Sistema de ventas-Contreras\Sistema de ventas-Contreras\obj\Debug\Sistema_de_ventas_Contreras.frmInventario.resources
+E:\Sistema de ventas-Contreras\Sistema de ventas-Contreras\obj\Debug\Sistema_de_ventas_Contreras.frmMenuvb.resources
+E:\Sistema de ventas-Contreras\Sistema de ventas-Contreras\obj\Debug\Sistema_de_ventas_Contreras.frmPedidos.resources
+E:\Sistema de ventas-Contreras\Sistema de ventas-Contreras\obj\Debug\Sistema_de_ventas_Contreras.frmRecibirProducto.resources
+E:\Sistema de ventas-Contreras\Sistema de ventas-Contreras\obj\Debug\Sistema_de_ventas_Contreras.frmRegistrarEmpleados.resources
+E:\Sistema de ventas-Contreras\Sistema de ventas-Contreras\obj\Debug\Sistema_de_ventas_Contreras.frmReportesVentas.resources
+E:\Sistema de ventas-Contreras\Sistema de ventas-Contreras\obj\Debug\Sistema_de_ventas_Contreras.Resources.resources
+E:\Sistema de ventas-Contreras\Sistema de ventas-Contreras\obj\Debug\Sistema_de_ventas_Contreras.frmRegistrarProductos.resources
+E:\Sistema de ventas-Contreras\Sistema de ventas-Contreras\obj\Debug\Sistema de ventas-Contreras.vbproj.GenerateResource.Cache
+E:\Sistema de ventas-Contreras\Sistema de ventas-Contreras\obj\Debug\Sistema de ventas-Contreras.exe
+E:\Sistema de ventas-Contreras\Sistema de ventas-Contreras\obj\Debug\Sistema de ventas-Contreras.xml
+E:\Sistema de ventas-Contreras\Sistema de ventas-Contreras\obj\Debug\Sistema de ventas-Contreras.pdb
+D:\Sistema de ventas-Contreras\Sistema de ventas-Contreras\bin\Debug\Sistema de ventas-Contreras.exe.config
+D:\Sistema de ventas-Contreras\Sistema de ventas-Contreras\obj\Debug\Sistema de ventas-Contreras.exe
+D:\Sistema de ventas-Contreras\Sistema de ventas-Contreras\obj\Debug\Sistema de ventas-Contreras.xml
+D:\Sistema de ventas-Contreras\Sistema de ventas-Contreras\obj\Debug\Sistema de ventas-Contreras.pdb
+D:\Sistema de ventas-Contreras\Sistema de ventas-Contreras\bin\Debug\Sistema de ventas-Contreras.exe
+D:\Sistema de ventas-Contreras\Sistema de ventas-Contreras\bin\Debug\Sistema de ventas-Contreras.pdb
+D:\Sistema de ventas-Contreras\Sistema de ventas-Contreras\bin\Debug\Sistema de ventas-Contreras.xml
+D:\Sistema de ventas-Contreras\Sistema de ventas-Contreras\obj\Debug\Sistema_de_ventas_Contreras.frmEditarProductosvb.resources
+D:\Sistema de ventas-Contreras\Sistema de ventas-Contreras\obj\Debug\Sistema_de_ventas_Contreras.frmEliminarProductos.resources
+D:\Sistema de ventas-Contreras\Sistema de ventas-Contreras\obj\Debug\Sistema_de_ventas_Contreras.frmCancelarPedido.resources
+D:\Sistema de ventas-Contreras\Sistema de ventas-Contreras\obj\Debug\Sistema_de_ventas_Contreras.frmConsultaGeneralPedidos.resources
+D:\Sistema de ventas-Contreras\Sistema de ventas-Contreras\obj\Debug\Sistema_de_ventas_Contreras.frmConsultaPedidosEstatus.resources
+D:\Sistema de ventas-Contreras\Sistema de ventas-Contreras\obj\Debug\Sistema_de_ventas_Contreras.frmConsultaPedidosMensual.resources
+D:\Sistema de ventas-Contreras\Sistema de ventas-Contreras\obj\Debug\Sistema_de_ventas_Contreras.frmIniciosesion.resources
+D:\Sistema de ventas-Contreras\Sistema de ventas-Contreras\obj\Debug\Sistema_de_ventas_Contreras.frmVenta.resources
+D:\Sistema de ventas-Contreras\Sistema de ventas-Contreras\obj\Debug\Sistema_de_ventas_Contreras.frmAsignarCuenta.resources
+D:\Sistema de ventas-Contreras\Sistema de ventas-Contreras\obj\Debug\Sistema_de_ventas_Contreras.frmCambiarContraseña.resources
+D:\Sistema de ventas-Contreras\Sistema de ventas-Contreras\obj\Debug\Sistema_de_ventas_Contreras.frmConsultaEmpleados.resources
+D:\Sistema de ventas-Contreras\Sistema de ventas-Contreras\obj\Debug\Sistema_de_ventas_Contreras.frmEditorEmpleados.resources
+D:\Sistema de ventas-Contreras\Sistema de ventas-Contreras\obj\Debug\Sistema_de_ventas_Contreras.frmEliminarCuenta.resources
+D:\Sistema de ventas-Contreras\Sistema de ventas-Contreras\obj\Debug\Sistema_de_ventas_Contreras.frmEliminarEmpleados.resources
+D:\Sistema de ventas-Contreras\Sistema de ventas-Contreras\obj\Debug\Sistema_de_ventas_Contreras.frmInventario.resources
+D:\Sistema de ventas-Contreras\Sistema de ventas-Contreras\obj\Debug\Sistema_de_ventas_Contreras.frmMenuvb.resources
+D:\Sistema de ventas-Contreras\Sistema de ventas-Contreras\obj\Debug\Sistema_de_ventas_Contreras.frmPedidos.resources
+D:\Sistema de ventas-Contreras\Sistema de ventas-Contreras\obj\Debug\Sistema_de_ventas_Contreras.frmRecibirProducto.resources
+D:\Sistema de ventas-Contreras\Sistema de ventas-Contreras\obj\Debug\Sistema_de_ventas_Contreras.frmRegistrarEmpleados.resources
+D:\Sistema de ventas-Contreras\Sistema de ventas-Contreras\obj\Debug\Sistema_de_ventas_Contreras.frmReportesVentas.resources
+D:\Sistema de ventas-Contreras\Sistema de ventas-Contreras\obj\Debug\Sistema_de_ventas_Contreras.Resources.resources
+D:\Sistema de ventas-Contreras\Sistema de ventas-Contreras\obj\Debug\Sistema_de_ventas_Contreras.frmRegistrarProductos.resources
+D:\Sistema de ventas-Contreras\Sistema de ventas-Contreras\obj\Debug\Sistema de ventas-Contreras.vbproj.GenerateResource.Cache
+I:\Sistema de ventas-Contreras\Sistema de ventas-Contreras\bin\Debug\Sistema de ventas-Contreras.exe.config
+I:\Sistema de ventas-Contreras\Sistema de ventas-Contreras\obj\Debug\Sistema de ventas-Contreras.exe
+I:\Sistema de ventas-Contreras\Sistema de ventas-Contreras\obj\Debug\Sistema de ventas-Contreras.xml
+I:\Sistema de ventas-Contreras\Sistema de ventas-Contreras\obj\Debug\Sistema de ventas-Contreras.pdb
+I:\Sistema de ventas-Contreras\Sistema de ventas-Contreras\bin\Debug\Sistema de ventas-Contreras.exe
+I:\Sistema de ventas-Contreras\Sistema de ventas-Contreras\bin\Debug\Sistema de ventas-Contreras.pdb
+I:\Sistema de ventas-Contreras\Sistema de ventas-Contreras\bin\Debug\Sistema de ventas-Contreras.xml
+I:\Sistema de ventas-Contreras\Sistema de ventas-Contreras\obj\Debug\Sistema_de_ventas_Contreras.frmEditarProductosvb.resources
+I:\Sistema de ventas-Contreras\Sistema de ventas-Contreras\obj\Debug\Sistema_de_ventas_Contreras.frmEliminarProductos.resources
+I:\Sistema de ventas-Contreras\Sistema de ventas-Contreras\obj\Debug\Sistema_de_ventas_Contreras.frmCancelarPedido.resources
+I:\Sistema de ventas-Contreras\Sistema de ventas-Contreras\obj\Debug\Sistema_de_ventas_Contreras.frmConsultaGeneralPedidos.resources
+I:\Sistema de ventas-Contreras\Sistema de ventas-Contreras\obj\Debug\Sistema_de_ventas_Contreras.frmConsultaPedidosEstatus.resources
+I:\Sistema de ventas-Contreras\Sistema de ventas-Contreras\obj\Debug\Sistema_de_ventas_Contreras.frmConsultaPedidosMensual.resources
+I:\Sistema de ventas-Contreras\Sistema de ventas-Contreras\obj\Debug\Sistema_de_ventas_Contreras.frmIniciosesion.resources
+I:\Sistema de ventas-Contreras\Sistema de ventas-Contreras\obj\Debug\Sistema_de_ventas_Contreras.frmVenta.resources
+I:\Sistema de ventas-Contreras\Sistema de ventas-Contreras\obj\Debug\Sistema_de_ventas_Contreras.frmAsignarCuenta.resources
+I:\Sistema de ventas-Contreras\Sistema de ventas-Contreras\obj\Debug\Sistema_de_ventas_Contreras.frmCambiarContraseña.resources
+I:\Sistema de ventas-Contreras\Sistema de ventas-Contreras\obj\Debug\Sistema_de_ventas_Contreras.frmConsultaEmpleados.resources
+I:\Sistema de ventas-Contreras\Sistema de ventas-Contreras\obj\Debug\Sistema_de_ventas_Contreras.frmEditorEmpleados.resources
+I:\Sistema de ventas-Contreras\Sistema de ventas-Contreras\obj\Debug\Sistema_de_ventas_Contreras.frmEliminarCuenta.resources
+I:\Sistema de ventas-Contreras\Sistema de ventas-Contreras\obj\Debug\Sistema_de_ventas_Contreras.frmEliminarEmpleados.resources
+I:\Sistema de ventas-Contreras\Sistema de ventas-Contreras\obj\Debug\Sistema_de_ventas_Contreras.frmInventario.resources
+I:\Sistema de ventas-Contreras\Sistema de ventas-Contreras\obj\Debug\Sistema_de_ventas_Contreras.frmMenuvb.resources
+I:\Sistema de ventas-Contreras\Sistema de ventas-Contreras\obj\Debug\Sistema_de_ventas_Contreras.frmPedidos.resources
+I:\Sistema de ventas-Contreras\Sistema de ventas-Contreras\obj\Debug\Sistema_de_ventas_Contreras.frmRecibirProducto.resources
+I:\Sistema de ventas-Contreras\Sistema de ventas-Contreras\obj\Debug\Sistema_de_ventas_Contreras.frmRegistrarEmpleados.resources
+I:\Sistema de ventas-Contreras\Sistema de ventas-Contreras\obj\Debug\Sistema_de_ventas_Contreras.frmReportesVentas.resources
+I:\Sistema de ventas-Contreras\Sistema de ventas-Contreras\obj\Debug\Sistema_de_ventas_Contreras.Resources.resources
+I:\Sistema de ventas-Contreras\Sistema de ventas-Contreras\obj\Debug\Sistema_de_ventas_Contreras.frmRegistrarProductos.resources
+I:\Sistema de ventas-Contreras\Sistema de ventas-Contreras\obj\Debug\Sistema de ventas-Contreras.vbproj.GenerateResource.Cache
