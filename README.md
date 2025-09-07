@@ -37,13 +37,10 @@ This project implements a Point of Sale (PoS) system for grocery stores using VB
 Contributions are welcome.  
 To propose improvements or new features, fork the repository and submit a pull request.
 
-## License
-
-MIT License.
-
 ## Contact
 
 For questions or support, use the Issues section in the repository.
-
+a225212557@unison.mx
 ---
 Developed by darkonion-dotcom
+
